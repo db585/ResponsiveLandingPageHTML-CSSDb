@@ -1,4 +1,4 @@
 # ResponsiveLandingPageHTML&CSS
 
-Traversy Media HTML5 Crash course clone for testing purpose.
+Traversy course clone for testing purpose.
 &copy; [Traversy Media](https://www.traversymedia.com/)
